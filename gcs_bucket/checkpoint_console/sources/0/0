@@ -1,0 +1,4 @@
+v1
+{"path":"file:///home/jovyan/work/data/streaming_input/sales_1970-01-01.csv","timestamp":1760678079683,"batchId":0}
+{"path":"file:///home/jovyan/work/data/streaming_input/sales_1970-01-02.csv","timestamp":1760678657291,"batchId":0}
+{"path":"file:///home/jovyan/work/data/streaming_input/samle.csv","timestamp":1760679402423,"batchId":0}
